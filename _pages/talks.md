@@ -7,17 +7,17 @@ author_profile: true
 
 # Upcoming talks:
 
-* **Irreducible representations of universal Burger-Mozes groups in infinite arity**,
-    * Group theory seminar, UCLouvain, Louvain, Belgique, Mai 2026.
+
  
 * **Dissociated permutation groups**,
-     * Université Paris 13, Villetaneuse, France, Mai 2026.
+     * Université Paris 13, Villetaneuse, France, September 2026.
 
 # Past talks:
 
 
 
-
+* **Irreducible representations of universal Burger-Mozes groups in infinite arity**,
+    * *Group theory* seminar, UCLouvain, Louvain, Belgique, May 2026.
 
 * **A new approach to the representation theory of Aut(T\\(_\infty\\))**,
    * *Groupes et Theorie des Modèles* seminar, IMJ-PRG, Paris, France, Novembre 2025.
