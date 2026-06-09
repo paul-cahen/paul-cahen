@@ -1,12 +1,13 @@
 ---
 layout: archive
-title: "Publications"
-permalink: /publications/
+title: "Papers"
+permalink: /papers/
 author_profile: true
 redirect_from:
-  - /papers
+  - /paper
+  - /publications
 ---
-* **Unitary representations of universal Burger-Mozes groups in infinite arity**, *in preparation.*<br/>
+* **Stochastic domination for FK percolation and sharp thinning thresholds for the Ising energy field**, joint work with [Avelio Sepúlveda](https://www.dim.uchile.cl/~lsepulveda/), a work where we introduce the concept of *weak domination* and *weak$^\dagger$ domination* (and analogous notions for the FKG property), weaker notions of stochastic dominations. *<br/>
 <small>[ <a href="#/" onclick="visib('burger2025')">Abstract</a> | <a href="https://rbarritault.github.io/files/Burger-Mozes.pdf">PDF</a>] </small>
 
   
