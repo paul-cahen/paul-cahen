@@ -22,14 +22,9 @@ In this work we introduce the concepts of *weak domination* and *weak\(^\dagger\
 
 <small>[ <a href="#/" onclick="visib('abstract-CLE-3-paper')">Abstract</a> | <a href="https://arxiv.org/pdf/2504.14057">ArXiv</a> | <a href="https://hal.science/hal-05047341v1">HAL</a>] </small>
 
-<div id="abstract-CLE-3-paper"
-     markdown="1"
-     style="display: none; text-align: justify; line-height: 1.2; font-size: smaller;">
-
-In this paper, we construct in a novel and explicit way the magnetization field of the critical planar Ising model [introduced a decade ago]({{ '/files/CGN-IMF.pdf' | relative_url }}). The only randomness that we use is the one arising from the set of interfaces of the spin clusters, the \(\mathrm{CLE}_3\). Therefore, as a corollary of our construction this shows that the critical Ising magnetization field is measurable in term of the \(\mathrm{CLE}_3\).
-
-</div>
-
+<div id="abstract-CLE-3-paper" style="display: none; text-align: justify; line-height: 1.2"><small>
+In this paper, we construct in a novel and explicit way the magnetization field of the critical planar Ising model <a href="{{ '/files/CGN-IMF.pdf' | relative_url }}">introduced a decade ago</a>. The only randomness that we use is the one arising from the set of interfaces of the spin clusters, the \(\mathrm{CLE}_3\). Therefore, as a corollary of our construction this shows that the critical Ising magnetization field is measurable in term of the \(\mathrm{CLE}_3\).
+</small><br /><br /></div>
 
 
 [//]: This java script is the button to show abstract
