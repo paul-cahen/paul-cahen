@@ -31,10 +31,10 @@ author:
   email            : "cahen@math.univ-lyon1.fr" 
 
   # Academic websites
-  arxiv            : # URL - Update with the correct link to your profile (entre guillemets)
+  arxiv            : # "https://arxiv.org/a/0009-0009-6096-3523"
   googlescholar    : # URL
   impactstory      : # URL
-  orcid            : # URL
+  orcid            : # "https://orcid.org/0009-0009-6096-3523"
   pubmed           : # URL
   researchgate     : # URL
   HAL              : # URL 
