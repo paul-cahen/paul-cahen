@@ -81,11 +81,11 @@
 .author__avatar img {
   display: block;
   max-width: none;
-  width: 150px;
-  height: 220px;
+  width: 180px;
+  height: 250px;
   object-fit: cover;
   object-position: 65% center;
-  border-radius: 0;
+  border-radius: 2px;
 }
 
 @media screen and (max-width: 1023px) {
