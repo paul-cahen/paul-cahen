@@ -9,7 +9,7 @@ redirect_from:
   - /publication/
 ---
 * **Stochastic domination for FK percolation and sharp thinning thresholds for the Ising energy field**, joint work with [Avelio Sepúlveda](https://www.dim.uchile.cl/~lsepulveda/). *Preprint*  <br/>
-<small>[ <a href="#/" onclick="visib('abstractFK-Ising-weak-domination')">Abstract</a> | <a href="https://rbarritault.github.io/files/Burger-Mozes.pdf">PDF</a>] </small>
+<small>[ <a href="#/" onclick="visib('abstractFK-Ising-weak-domination')">Abstract</a> | <a href="https://rbarritault.github.io/files/Burger-Mozes.pdf">PDF</a> | <a href="lien arxiv">ArXiv</a> | <a href="lien HAL">HAL</a>] </small>
 
   
 <div id="abstractFK-Ising-weak-domination" style="display: none; text-align: justify; line-height: 1.2" ><small>
@@ -18,7 +18,7 @@ In this work we introduce the concepts of *weak domination* and *weak$^\dagger$ 
 
 
   
-* **The critical ising magnetization field can be reconstructed from its $+/-$ interfaces**, with [Christophe Garban](https://math.univ-lyon1.fr/~garban/) and [Avelio Sepúlveda](https://www.dim.uchile.cl/~lsepulveda/), 2026. *Preprint* <br/>
+* **The critical ising magnetization field can be reconstructed from its $+/-$ interfaces**, with [Christophe Garban](https://math.univ-lyon1.fr/~garban/) and [Avelio Sepúlveda](https://www.dim.uchile.cl/~lsepulveda/), 2026. *Work in progress* <br/>
 <small>[ <a href="#/" onclick="visib('abstract-CLE-3-paper')">Abstract</a> | <a href="https://arxiv.org/pdf/2504.14057">ArXiv</a> | <a href="https://hal.science/hal-05047341v1">HAL</a>] </small>
 
 <div id="abstract-CLE-3-paper" style="display: none; text-align: justify; line-height: 1.2" ><small>
