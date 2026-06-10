@@ -1,10 +1,10 @@
 ---
 layout: archive
 title: "Research"
-permalink: /papers/
+permalink: /research/
 author_profile: true
 redirect_from:
-  - /research/
+  - /papers/
   - /paper/
   - /publications/
   - /publication/
