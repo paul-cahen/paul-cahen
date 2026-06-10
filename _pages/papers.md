@@ -8,21 +8,21 @@ redirect_from:
   - /publications/
   - /publication/
 ---
-* **Stochastic domination for FK percolation and sharp thinning thresholds for the Ising energy field**, joint work with [Avelio Sepúlveda](https://www.dim.uchile.cl/~lsepulveda/), *preprint*.  *<br/>
-<small>[ <a href="#/" onclick="visib('abstractFK-Ising2026')">Abstract</a> | <a href="https://rbarritault.github.io/files/Burger-Mozes.pdf">PDF</a>] </small>
+* **Stochastic domination for FK percolation and sharp thinning thresholds for the Ising energy field**, joint work with [Avelio Sepúlveda](https://www.dim.uchile.cl/~lsepulveda/). *Preprint*  <br/>
+<small>[ <a href="#/" onclick="visib('abstractFK-Ising-weak-domination')">Abstract</a> | <a href="https://rbarritault.github.io/files/Burger-Mozes.pdf">PDF</a>] </small>
 
   
-<div id="abstractFK-Ising2026" style="display: none; text-align: justify; line-height: 1.2" ><small>
+<div id="abstractFK-Ising-weak-domination" style="display: none; text-align: justify; line-height: 1.2" ><small>
 In this work we introduce the concepts of *weak domination* and *weak$^\dagger$ domination* (and analogous notions for the FKG property), which are notions of stochastic dominations after thinning (and sprinkling). Thanks to a new stochastic domination for FK percolation, we are able to show that the *energy field* of the Ising model (i.e. the set of edges +/+ or -/-) is weakly monotone in the coupling constants and we determine quantitatively the parameter of the thinning necessary to get the domination. We also find the amount of thinning necessary to get the weak$^\dagger$ domination.
 </small><br><br/></div>
 
 
   
-* **On dissociated infinite permutation groups**, with [Colin Jahel](https://sites.aub.edu.lb/colinjahel) and [Matthieu Joseph](http://webusers.imj-prg.fr/~matthieu.joseph), 2025. *Preprint* <br/>
-<small>[ <a href="#/" onclick="visib('dissociation2025')">Abstract</a> | <a href="https://arxiv.org/pdf/2504.14057">ArXiv</a> | <a href="https://hal.science/hal-05047341v1">HAL</a>] </small>
+* **The critical ising magnetization field can be reconstructed from its $+/-$ interfaces**, with [Christophe Garban](https://math.univ-lyon1.fr/~garban/) and [Avelio Sepúlveda](https://www.dim.uchile.cl/~lsepulveda/), 2026. *Preprint* <br/>
+<small>[ <a href="#/" onclick="visib('abstract-CLE-3-paper')">Abstract</a> | <a href="https://arxiv.org/pdf/2504.14057">ArXiv</a> | <a href="https://hal.science/hal-05047341v1">HAL</a>] </small>
 
-<div id="dissociation2025" style="display: none; text-align: justify; line-height: 1.2" ><small>
-The goal of this paper is threefold. First, we describe the notion of dissociation for closed subgroups of the group of permutations on a countably infinite set and explain its numerous consequences on unitary representations (classification of unitary representations, Property (T), Howe-Moore property, etc.) and on ergodic actions (non-existence of type III non-singular actions, Stabilizer rigidity, etc.). Some of the results presented here are new, others were proved in different contexts. Second, we introduce a new method to prove dissociation. It is based on a reinforcement of the classical notion of strong amalgamation, where we allow to amalgamate over countable sets. Third, we apply this technique of amalgamation to provide new examples of dissociated closed permutation groups, including isometry groups of some metrically homogeneous graphs, automorphism groups of diversities, and more.
+<div id="abstract-CLE-3-paper" style="display: none; text-align: justify; line-height: 1.2" ><small>
+In this paper, we construct in an explicit way the magnetization field of the critical planar Ising model [introduced a decade ago](https://paul-cahen.github.io/files/CGN-IMF.pdf)
 </small><br><br/></div>
 
 
