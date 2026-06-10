@@ -13,7 +13,7 @@ redirect_from:
 
   
 <div id="abstractFK-Ising-weak-domination" style="display: none; text-align: justify; line-height: 1.2" ><small>
-In this work we introduce the concepts of *weak domination* and *weak\(^\dagger\) domination* (and analogous notions for the FKG property), which are notions of stochastic dominations after thinning (and sprinkling). Thanks to a new stochastic domination for FK percolation, we are able to show that the *energy field* of the Ising model (i.e. the set of edges +/+ or -/-) is weakly monotone in the coupling constants and we determine quantitatively the parameter of the thinning necessary to get the domination. We also find the amount of thinning necessary to get the weak\(^\dagger\) domination.
+In this work we introduce the concepts of <em>weak domination</em> and <em>weak\(^\dagger\) domination</em> (and analogous notions for the FKG property), which are notions of stochastic dominations after thinning (and sprinkling). Thanks to a new stochastic domination for FK percolation, we are able to show that the <em>energy field</em> of the Ising model (i.e. the set of edges +/+ or -/-) is weakly monotone in the coupling constants and we determine quantitatively the parameter of the thinning necessary to get the domination. We also find the amount of thinning necessary to get the weak\(^\dagger\) domination.
 </small><br><br/></div>
 
 
