@@ -49,8 +49,7 @@ In this paper, we construct in a novel and explicit way the magnetization field 
 
 # Serious talks at seminars, work-groups and conferences
 
-* *A new stochastic domination for FK-percolation* talk given at the Summer School [PISA](https://pisa.mat.uc.cl/)
-* <small>[ <a href="#/" onclick="visib('talk-PISA-01/26')">Abstract</a> ] </small>
+* *A new stochastic domination for FK-percolation* talk given at the Summer School [PISA](https://pisa.mat.uc.cl/) <small>[ <a href="#/" onclick="visib('talk-PISA-01/26')">Abstract</a> ] </small>
 
   
 <div id="talk-PISA-01/26" style="display: none; text-align: justify; line-height: 1.2" ><small>
