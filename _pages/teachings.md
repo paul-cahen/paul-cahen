@@ -2,7 +2,6 @@
 layout: archive
 title: "Teachings"
 permalink: /teachings/
-author_profile: true
 ---
 
 ## 2024 - 2026, Université Claude Bernard Lyon 1, Lyon.
