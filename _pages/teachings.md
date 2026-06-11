@@ -5,27 +5,10 @@ permalink: /teachings/
 author_profile: true
 ---
 
+## 2024 - 2026, Université Claude Bernard Lyon 1, Lyon.
 
-*A summary in english appears in my [Short CV](https://rbarritault.github.io/cv/). See also my [Full CV](https://rbarritault.github.io/files/Barritault_R_CV.pdf)*.
+  * Graded exercice sessions for the courses **Algèbre 3** and **Analyse 3**, second year of bachelor.
 
-## 2025 - 2026, Université Claude Bernard Lyon 1, Lyon.
+## 2019 - 2024, Lycée Louis-le-Grand, Paris.
 
-  * TD **Analyse 1**, niveau L1 [[MAT1055L]](https://offre-de-formations.univ-lyon1.fr/ue-24751/analyse-1-pour-mathematiciens.html).
-
-
-## 2024 - 2025, University of Maryland at College Park, USA.
-  * Tuteur de deux étudiants de troisième année, équivalent Licence 3, dans le cadre du [Directed Reading Program](http://drp.math.umd.edu/).
-    * Semestre d'automne: Introduction aux systèmes dynamiques et à la théorie du chaos.
-    * Semestre de printemps: Le Théorème de Krein-Milman.
-    
-
-## 2023 - 2024, Université Claude Bernard Lyon 1, Lyon.
-
-  * TD de **Mathématiques 2**, niveau L1 [[MAT1051L]](https://offre-de-formations.univ-lyon1.fr/%2Fue-24747%2Fmathematique-2.html).
-  * TD de **Mathématiques 4**, niveau L2 [[MAT2013L]](https://offre-de-formations.univ-lyon1.fr/%2Fue-343%2Fmathematiques-4-%28mecanique-physique-spi%29.html).
-  * TP d'**Analyse 2**, niveau L1 [[MAT1057L]](https://offre-de-formations.univ-lyon1.fr/%2Fue-24753-1655%2Fanalyse-2-pour-mathematiciens.html).
-  * Colles d'**Algèbre 2** et **Analyse 2**, pour le cursus prépa, niveau L1 [[voir plus]](https://licence-math.univ-lyon1.fr/doku.php?id=p24:prepa_semestre2:page).
-
-## 2020 - 2021, Lycée La Martinière Monplaisir, Lyon.
-
-  * Colles de **Mathématiques** en BCPST 2, classe préparatoire de biologie 2e année [[voir plus]](https://martiniere-monplaisir.ent.auvergnerhonealpes.fr/formations-statut-scolaire/les-cpge-classes-preparatoires-aux-grandes-ecoles-/bcpst-biologie-chimie-physique-sciences-de-la-terre-34735.htm).
+  * Oral exam preparation in **Mathématiques** for *Grandes Écoles* entrance exams, in first and second year of *classes préparatoires*. 
