@@ -22,7 +22,7 @@ In this work we introduce the concepts of <em>weak domination</em> and <em>weak\
 
 
   
-* **The critical ising magnetization field can be reconstructed from its $+/-$ interfaces**, with [Christophe Garban](https://math.univ-lyon1.fr/~garban/) and [Avelio Sepúlveda](https://www.dim.uchile.cl/~lsepulveda/), 2026. *Work in progress* <br/>
+* **The critical ising magnetization field can be reconstructed from its \(+/-\( interfaces**, with [Christophe Garban](https://math.univ-lyon1.fr/~garban/) and [Avelio Sepúlveda](https://www.dim.uchile.cl/~lsepulveda/), 2026. *Work in progress* <br/>
 
 <small>[ <a href="#/" onclick="visib('abstract-CLE-3-paper')">Abstract</a> | <a href="https://arxiv.org/pdf/2504.14057">ArXiv</a> | <a href="https://hal.science/hal-05047341v1">HAL</a>] </small>
 
@@ -48,5 +48,14 @@ In this paper, we construct in a novel and explicit way the magnetization field 
 </script>
 
 # Serious talks at seminars, work-groups and conferences
+
+* *A new stochastic domination for FK-percolation* talk given at the Summer School [PISA](https://pisa.mat.uc.cl/)
+* <small>[ <a href="#/" onclick="visib('talk-PISA-01/26')">Abstract</a> ] </small>
+
+  
+<div id="talk-PISA-01/26" style="display: none; text-align: justify; line-height: 1.2" ><small>
+FK percolation is a model of bond percolation on a (a priori) finite graph, which depends (as well as on the classical edge parameter \(p\) on a global positive parameter \(q\). The model specializes to classical Bernoulli percolation for \(q=1\), and in the regime \(q\rightarrow 0\) one can recover classical models like the uniform spanning tree or the uniform spanning forest. The case \(q=2\) is deeply connected to the Ising model, one of the main reason for which it has been introduced in the first place. Like Bernoulli percolation, for a given \(q\ge1\), the model (stochastically) increases in the parameter \(p\) but the reason for which it's true is more involved. In this talk, I will present a prove a  stochastic domination which strictly improves on this, and actually allows to compare distinct FK-percolation for distinct values of \(q\). This is joint work with Avelio Sepúlveda.
+</small><br><br/></div>
+
 
 * On FK perco  blablab
