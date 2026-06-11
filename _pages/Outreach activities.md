@@ -6,4 +6,6 @@ author_profile: true
 author_avatar: "profile-jongle.jpg"
 ---
 
-# Mathematics and Juggling
+* **Mathematics and Juggling**
+
+* 
