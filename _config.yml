@@ -34,10 +34,10 @@ author:
   email            : "cahen@math.univ-lyon1.fr" 
 
   # Academic websites
-  arxiv            : # "https://arxiv.org/a/0009-0009-6096-3523"
+  arxiv            : "https://arxiv.org/a/0009-0009-6096-3523"
   googlescholar    : # URL
   impactstory      : # URL
-  orcid            : # "https://orcid.org/0009-0009-6096-3523"
+  orcid            : "https://orcid.org/0009-0009-6096-3523"
   pubmed           : # URL
   researchgate     : # URL
   HAL              : # URL 
@@ -46,7 +46,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : # "paul-cahen"
+  github           : "paul-cahen"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
