@@ -1,7 +1,8 @@
 ---
 layout: archive
 title: "Teachings"
-author_profile: false
+author_profile: true
+author_avatar: "TA-senegal.jpg"
 permalink: /teachings/
 ---
 
