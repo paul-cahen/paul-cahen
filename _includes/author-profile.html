@@ -12,6 +12,8 @@
     {% endif %}
   </div>
 
+  {% assign author_avatar = page.author_avatar | default: author.avatar %}
+
   <div class="author__content">
     <h3 class="author__name">{{ author.name }}</h3>
     {% if author.pronouns %}<p class="author__pronouns">{{ author.pronouns }}</p>{% endif %}
