@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Teachings"
-author: false
+author_profile: false
 permalink: /teachings/
 ---
 
