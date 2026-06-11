@@ -9,6 +9,7 @@ author_avatar: "profile-jongle.jpg"
 * **Mathematics and Juggling**
 
 I discovered juggling at 17 (actually thanks to other young persons into mathematics) and since then I practiced thoroughly or not-so-thoroughly depending on the moments. Anyway, juggling has much to do with mathematics and I used the mathematization of juggling, famously known in the juggling community as the *siteswap notation*, to show how mathematical reasonments could be useful in practice. [Here](paul-cahen.github.io/juggling-slides.pdf) are the slides of a talk that I gave in front of high school students on June 15, 2026 at the ICJ (my lab in Lyon).
+
 [This olympic problem](https://artofproblemsolving.com/community/c6h1113168p5083494), who was the last problem at IMO 2015, has much to do with this mathematical theory of siteswaps.
 
 * **Olympic mathematics**
