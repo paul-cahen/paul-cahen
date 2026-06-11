@@ -4,6 +4,9 @@ title: "Mathematics toward a broader audience"
 permalink: /general-math/
 author_profile: true
 author_avatar: "profile-jongle.jpg"
+redirect_from: 
+  - /outreach-activities
+  - /outreach-activity
 ---
 
 * **Mathematics and Juggling**
@@ -21,4 +24,8 @@ I gave a talk about this fascinating game at the *Séminaire Pizza de l'ICJ* in 
 
 * **Olympic mathematics**
 
-As a high school student I took part in the Olympiads, and attended many courses organized by the [POFM](https://maths-olympiques.fr/) who were meant to prepare us. After starting university, I started to give myself exercice sessions in many occurences. Here is a short resume of my activity there: 
+As a high school student I took part in the Olympiads, and attended many courses organized by the [POFM](https://maths-olympiques.fr/) who were meant to prepare us. After starting university, I started to give myself exercice sessions in many occurences. Here is a short resume of my activity there: TBD
+
+* **MathàLyon**
+
+Since the beginning of my PhD I helped *MathàLyon* a few times. This is an association that regularly visits middle schools to run mathematical workshops with students and help them discover various ideas beyond school mathematics through their own exploration. [Here](paul-cahen.github.io/files/le-guide-math-a-lyon.pdf) is a document presenting the activities of MathàLyon.
