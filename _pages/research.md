@@ -57,4 +57,8 @@ FK percolation is a model of bond percolation on a (a priori) finite graph, whic
 </small><br><br/></div>
 
 
-* On FK perco  blablab
+* *The magnetization field of critical planar Ising can be reconstructed from its \(+/-\) interfaces* talk given at the workshop [Les Diablerets](https://www.unige.ch/math/mpseminar/Events/Diablerets2026/Diablerets2026.html). <small>[ <a href="#/" onclick="visib('talk-diablerets-02/26')">Abstract</a> ] </small>
+
+<div id="talk-diablerets-02/26" style="display: none; text-align: justify; line-height: 1.2" ><small>
+The planar Ising model at criticality is well understood: on the one hand, it has been shown that the interfaces of the +/- clusters admit a scaling limit, a conformally invariant collection of loops called CLE_3, and on the other hand, convergence of renormalized correlations of the primary fields has been proved as well; the latter result paved the way to prove the existence of another scaling limit: a conformally covariant random field known as the magnetization field. However, no link was made between these two random objects that can be thought of as describing a continuous Ising model. In joint work with Christophe Garban and Avelio Sepúlveda, we give another construction of the magnetization field starting from a CLE_3, showing that in the continuous limit, the field is determined by the loops. In this talk, I will try to convey the main difficulties of the problem and the ideas behind the proof. 
+</small><br><br/></div>
