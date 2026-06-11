@@ -1,18 +1,23 @@
 {% include base_path %}
 
 {% assign author = site.author %}
+{% assign author_avatar = page.author_avatar | default: author.avatar %}
 
 <div itemscope itemtype="http://schema.org/Person">
 
-  <div class="author__avatar">
-    {% if author.avatar contains "://" %}
-    	<img src="{{ author.avatar }}" alt="{{ author.name }}">
-    {% else %}
-    	<img src="{{ author.avatar | prepend: "/images/" | prepend: base_path }}" class="author__avatar" alt="{{ author.name }}">
-    {% endif %}
-  </div>
+ <div class="author__avatar">
 
-  {% assign author_avatar = page.author_avatar | default: author.avatar %}
+ {% if author_avatar contains "://" %}
+
+ <img src="{{ author_avatar }}" alt="{{ author.name }}">
+
+ {% else %}
+
+ <img src="{{ author_avatar | prepend: "/images/" | prepend: base_path }}" alt="{{ author.name }}">
+
+ {% endif %}
+
+ </div>
 
   <div class="author__content">
     <h3 class="author__name">{{ author.name }}</h3>
