@@ -1,4 +1,5 @@
 User-agent: *
 Allow: /
 
+Sitemap: https://paul-cahen.github.io/sitemap.txt
 Sitemap: https://paul-cahen.github.io/sitemap-google.xml
