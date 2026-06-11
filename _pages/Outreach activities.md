@@ -5,3 +5,5 @@ permalink: /general-math/
 author_profile: true
 author_avatar: "profile2.jpg"
 ---
+
+# Mathematics and Juggling
