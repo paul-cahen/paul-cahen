@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Paul Cahen"
-seo_title: "Paul Cahen's homepage"
+title: "Paul Cahen's homepage"
+seo_title: "Paul Cahen's homepage, Mathematics and Probabilities"
 description: "Homepage of Paul Cahen, PhD student in Mathematics at Université Claude Bernard Lyon 1. Research in probability, statistical physics, the Ising model and FK percolation."
 author_profile: true
 redirect_from: 
