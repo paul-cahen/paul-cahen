@@ -42,4 +42,4 @@ The concept of Nash equilibria, in its modern formulation, dates back to a 1950 
 I introduced two highly simplified models of poker, and computed the associated Nash equilibria, and interpreted the results as a justification for the classical strategies used by professional poker players, such as bluffing, value betting, slow-playing, and so on.
 </small><br><br/></div>
 
-  - 
+  - 03/06/2026: *Levine's game and its surprises*
