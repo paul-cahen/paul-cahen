@@ -26,6 +26,20 @@ I gave a talk about this fascinating game at the *Séminaire Pizza de l'ICJ* in 
 
 As a high school student I took part in the Olympiads, and attended many courses organized by the [POFM](https://maths-olympiques.fr/) who were meant to prepare us. After starting university, I started to give myself exercice sessions in many occurences. Here is a short resume of my activity there: TBD
 
+
 * **MathàLyon**
 
 Since the beginning of my PhD I helped *MathàLyon* a few times. This is an association that regularly visits middle schools to run mathematical workshops with students and help them discover various ideas beyond school mathematics through their own exploration. [Here](/files/Le-guide-MathaLyon.pdf) is a document presenting the activities of MathàLyon.
+
+* **List of the not-so-serious talks that I gave**
+
+- 23/04/2025: *Nash equilibria - the case of poker and its surprises* for the *Séminaire des doctorants de l'Institut Fourier* <br/> <small>[ <a href="#/" onclick="visib('talk-Nash-poker')">Abstract</a> | <a href="https://www-fourier.univ-grenoble-alpes.fr/fr/node/27621">Talk's page</a> ] </small>
+
+  
+<div id="talk-Nash-poker" style="display: none; text-align: justify; line-height: 1.2" ><small>
+The concept of Nash equilibria, in its modern formulation, dates back to a 1950 paper by Nash. In that paper, he proves that every game, understood in a fairly broad sense, admits an equilibrium, not necessarily unique, characterized by the fact that each player is satisfied with their strategy given the strategies of the others. The proof of Nash theorem is very simple and relies on a fixed point theorem. In the case of a zero-sum game, the Nash equilibrium is unique in a certain sense.
+
+I introduced two highly simplified models of poker, and computed the associated Nash equilibria, and interpreted the results as a justification for the classical strategies used by professional poker players, such as bluffing, value betting, slow-playing, and so on.
+</small><br><br/></div>
+
+  - 
